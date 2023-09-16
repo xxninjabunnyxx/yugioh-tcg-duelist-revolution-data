@@ -1,0 +1,25 @@
+---
+id: 83027236
+name: Light of Destruction
+type: Trap Card
+frameType: trap
+desc: When an opponent's card effect sends a card(s) from their Deck to the Graveyard,
+  send the top 3 cards of their Deck to the Graveyard.
+race: Continuous
+card_sets:
+- set_name: Duelist Revolution
+  set_code: DREV-EN080
+  set_rarity: Short Print
+  set_rarity_code: "(SP)"
+  set_price: '1.08'
+card_images:
+- id: 83027236
+  image_url: https://images.ygoprodeck.com/images/cards/83027236.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/83027236.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/83027236.jpg
+card_prices:
+- cardmarket_price: '0.26'
+  tcgplayer_price: '0.18'
+  ebay_price: '1.99'
+  amazon_price: '99.99'
+  coolstuffinc_price: '0.25'

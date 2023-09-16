@@ -1,0 +1,26 @@
+---
+id: 74717840
+name: Landoise's Luminous Moss
+type: Spell Card
+frameType: spell
+desc: Activate only if you control a face-up "Naturia" monster. The opponent's Effect
+  Monsters cannot activate their effects this turn.
+race: Normal
+archetype: Naturia
+card_sets:
+- set_name: Duelist Revolution
+  set_code: DREV-EN052
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '1.12'
+card_images:
+- id: 74717840
+  image_url: https://images.ygoprodeck.com/images/cards/74717840.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/74717840.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/74717840.jpg
+card_prices:
+- cardmarket_price: '0.19'
+  tcgplayer_price: '0.35'
+  ebay_price: '0.99'
+  amazon_price: '0.98'
+  coolstuffinc_price: '0.25'

@@ -1,0 +1,25 @@
+---
+id: 9999961
+name: Beast Rage
+type: Spell Card
+frameType: spell
+desc: All monsters you control gain 200 ATK for each of your removed from play Beast-Type
+  and Winged Beast-Type monsters.
+race: Normal
+card_sets:
+- set_name: Duelist Revolution
+  set_code: DREV-EN056
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.09'
+card_images:
+- id: 9999961
+  image_url: https://images.ygoprodeck.com/images/cards/9999961.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/9999961.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/9999961.jpg
+card_prices:
+- cardmarket_price: '0.15'
+  tcgplayer_price: '0.14'
+  ebay_price: '0.99'
+  amazon_price: '0.20'
+  coolstuffinc_price: '0.25'
